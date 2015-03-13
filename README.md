@@ -17,7 +17,7 @@ color = UIColor.with(red: 0.5, green: 0.5, blue: 0.5, alpha: 0.9)
 
 Add this line to your application's Gemfile:
 
-    gem 'WithMotion', :git => 'https://github.com/digitalfx/WithMotion.git'
+    gem 'WithMotion'
 
 And then execute:
 
